@@ -1,5 +1,5 @@
 # Earthquake_msg
-Earthquakeパッケージのメッセージ型を定義するパッケージ
+(Earthquake_Info)[https://github.com/HorigutiStudent/Earthquake_Info]パッケージのメッセージ型を定義するパッケージ
 
 # License
 - このソフトウェアパッケージは，MITライセンスの下，再頒布および使用が許可される. \
