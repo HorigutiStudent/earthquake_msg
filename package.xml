@@ -3,8 +3,8 @@
 <package format="3">
   <name>earthquake_msg</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="s23c1127lc@s.chibakoudai.jp">akage</maintainer>
+  <description>a package for practice</description>
+  <maintainer email="s23c1127lc@s.chibakoudai.jp">horiguti</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
